@@ -1,7 +1,7 @@
 
 ## Hello There 👋
 
-I am Vladislav Morozov. 
+My name is Vlad(islav Morozov)!
 
 You may find out more about my work and projects from my [website](https://vladislav-morozov.github.io/).
 
